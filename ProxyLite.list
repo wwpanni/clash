@@ -15,7 +15,9 @@ IP-CIDR,103.115.43.2/32,no-resolve
 # 数量：1
 DOMAIN-SUFFIX,steamstatic.com
 
-
+# 内容：rockstar
+# 数量：1
+DOMAIN-SUFFIX,rockstargames.com
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
